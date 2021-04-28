@@ -18,7 +18,7 @@ function print(num){
 		str = arr[rem] + str;
 	}
 	console.log(str);
-
+	console.log("hi");
 }
 
 
